@@ -1,0 +1,12 @@
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\bin\Debug\PharmacyApp.exe.config
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\bin\Debug\PharmacyApp.exe
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\bin\Debug\PharmacyApp.pdb
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.csproj.AssemblyReference.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.Form1.resources
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.Properties.Resources.resources
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.csproj.GenerateResource.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.csproj.CoreCompileInputs.cache
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.exe
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.pdb
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.exe.config
+D:\level 300 s2\DCIT318\Assignment\dcit318-assignment4-11004310\PharmacyApp\obj\Debug\PharmacyApp.SalesForm.resources
